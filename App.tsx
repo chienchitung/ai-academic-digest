@@ -10,7 +10,7 @@ import { generateSummary } from './services/geminiService';
 // --- Internationalization (i18n) ---
 const translations = {
   en: {
-    "appTitle": "Academia Digest",
+    "appTitle": "AI Academic Digest",
     "appDescription": "AI-Powered Academic Paper Summarization Tool",
     "toggleTheme": "Toggle theme",
     "toggleLanguage": "切換語言",
@@ -43,7 +43,7 @@ const translations = {
     "error.missingText": "Please paste the paper text before generating a summary."
   },
   'zh-TW': {
-    "appTitle": "學術文摘",
+    "appTitle": "AI Academic Digest",
     "appDescription": "AI 驅動的學術論文摘要工具",
     "toggleTheme": "切換主題",
     "toggleLanguage": "Switch Language",
